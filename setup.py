@@ -7,7 +7,7 @@ setuptools.setup(
     name="holdem-machine-client",
     version="0.0.1",
     author="Python Strategies",
-    author_email="pythonstrats@gmail.com",
+    author_email="andreivzubov@gmail.com",
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",
